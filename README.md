@@ -14,7 +14,7 @@ Project's flow: <br>
 5) Data Modelling<br>
 <br>
 Conclusion:<br>
-**Gender** : The average score for reading and writing is dominating by female, while for math, male score higher than female. <br>
+_Gender_ : The average score for reading and writing is dominating by female, while for math, male score higher than female. <br>
 **Race** : Group E got the highest average score in all three specifications compared to other race. <br>
 **Parental Level Education** : Students whose parents with low level education scored lower than other students have parents with high level education <br>
 **Lunch** : Students with free or reduced meal have higher average marks than those who have standard meals. <br>
